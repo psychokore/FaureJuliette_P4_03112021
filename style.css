@@ -362,6 +362,13 @@ a:hover {
     z-index: 2;
 }
 
+.body-text{
+    font-size: 24px;
+}
+.under-text{
+    font-size: 18px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -837,6 +844,12 @@ h4 {
     .bloc-tile-4.full-width-bloc .container {
         padding-left: 0;
         padding-right: 0;
+    }
+    .body-text{
+        font-size: 20px;
+    }
+    .under-text{
+        font-size: 14px;
     }
 }
 
